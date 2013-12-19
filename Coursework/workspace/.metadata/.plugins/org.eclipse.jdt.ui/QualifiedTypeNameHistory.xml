@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.example.coursework.R.menu"/>
+<fullyQualifiedTypeName name="com.example.coursework.R.layout"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="android.widget.Button"/>
+<fullyQualifiedTypeName name="android.view.View"/>
+<fullyQualifiedTypeName name="com.example.coursework.MainActivity.MapView"/>
+<fullyQualifiedTypeName name="android.os.Debug"/>
+<fullyQualifiedTypeName name="android.provider.Settings.System"/>
+<fullyQualifiedTypeName name="android.util.Log"/>
+<fullyQualifiedTypeName name="android.view.MenuItem"/>
+<fullyQualifiedTypeName name="com.coursework.project.R.id"/>
+<fullyQualifiedTypeName name="android.app.SearchManager"/>
+<fullyQualifiedTypeName name="android.support.v7.widget.SearchView"/>
+<fullyQualifiedTypeName name="android.content.Context"/>
+</qualifiedTypeNameHistroy>
