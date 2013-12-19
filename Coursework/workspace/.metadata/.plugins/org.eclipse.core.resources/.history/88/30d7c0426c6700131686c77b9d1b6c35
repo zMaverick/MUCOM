@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    
+    <!-- Map / will display always -->
+    <item
+        android:id="@+id/change_map"
+        android:icon="@drawable/ic_action_map"
+        android:showAsAction="ifRoom"
+        android:title="@string/change_map"/>
+    
+    <!-- Search / will display always -->
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_action_search"
+        android:showAsAction="collapseActionView|ifRoom"
+        android:title="@string/action_search" 
+        android:actionViewClass="android.widget.SearchView" />
+    
+    
+  
+	<item
+        android:id="@+id/glasgow"
+        android:showAsAction="never"
+        android:title="@string/glasgow"/>
+	<item
+        android:id="@+id/delhi"
+        android:showAsAction="never"
+        android:title="@string/delhi"/>
+	<item
+        android:id="@+id/melbourne"
+        android:showAsAction="never"
+        android:title="@string/melbourne"/>
+	<item
+        android:id="@+id/manchester"
+        android:showAsAction="never"
+        android:title="@string/manchester"/>
+	<item
+        android:id="@+id/kuala_lumpur"
+        android:showAsAction="never"
+        android:title="@string/kuala_lumpur"/>
+	<item
+        android:id="@+id/victoria"
+        android:showAsAction="never"
+        android:title="@string/victoria"/>
+	<item
+        android:id="@+id/auckland"
+        android:showAsAction="never"
+        android:title="@string/auckland"/>
+	<item
+        android:id="@+id/edinburgh"
+        android:showAsAction="never"
+        android:title="@string/edinburgh"/>
+	<item
+        android:id="@+id/brisbane"
+        android:showAsAction="never"
+        android:title="@string/brisbane"/>
+	<item
+        android:id="@+id/edmonton"
+        android:showAsAction="never"
+        android:title="@string/edmonton"/>
+	<item
+        android:id="@+id/christchurch"
+        android:showAsAction="never"
+        android:title="@string/christchurch"/>
+
+</menu>

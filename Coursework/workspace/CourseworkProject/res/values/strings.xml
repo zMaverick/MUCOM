@@ -8,10 +8,24 @@
     
     <string name="change_map">Change Map Type</string>
     <string name="action_search">Search Location</string>
-    <string name="action_location_found">Location Found</string>
+    <string name="action_location">Distance to Glasgow from Current Location</string>
     <string name="action_help">Help</string>
     <string name="action_refresh">Refresh</string>
 	<string name="action_check_updates">Check for Updates</string>
 	
-	<string name="search_hint">Search</string>
+	<string name="search_hint">Search Location</string>
+	
+    <string name="glasgow">Glasgow 2014</string>
+    <string name="delhi">Delhi 2010</string>
+    <string name="melbourne">Melbourne 2006</string>
+    <string name="manchester">Manchester 2002</string>
+    <string name="kuala_lumpur">Kuala Lumpur 1998</string>
+    <string name="victoria">Victoria 1994</string>
+    <string name="auckland">Auckland 1990</string>
+    <string name="edinburgh">Edinburgh 1986</string>
+    <string name="brisbane">Brisbane 1982</string>
+    <string name="edmonton">Edmonton 1978</string>
+    <string name="christchurch">Christchurch 1974</string>
+
+
 </resources>
